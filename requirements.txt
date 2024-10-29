@@ -1,2 +1,4 @@
 Flask
 Dash
+dash-bootstrap-components
+pandas
